@@ -1,0 +1,7 @@
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\bin\Debug\Osztal_Konyv.exe
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\bin\Debug\Osztal_Konyv.pdb
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\obj\Debug\Osztal_Konyv.csproj.AssemblyReference.cache
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\obj\Debug\Osztal_Konyv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\obj\Debug\Osztal_Konyv.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\obj\Debug\Osztal_Konyv.exe
+C:\Users\Tanulo\RiderProjects\Eloadas17\Osztal_Konyv\obj\Debug\Osztal_Konyv.pdb

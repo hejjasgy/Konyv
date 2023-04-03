@@ -1,0 +1,1 @@
+Hiba történt a(z) 1 könyvnél (sd): a megadott ISBN szám érvénytelen: 1234567890
